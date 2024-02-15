@@ -1,4 +1,4 @@
-Qui Je Suis ❓
+# Qui Je Suis ❓
 
 Moi c'est Emmanuelle, installée dans les Bouches du Rhone depuis 2019, et originaire des Alpes Maritimes ☀️
 
@@ -18,13 +18,14 @@ Mes différentes expériences professionnelles et personnelles m'ont permis de d
     Pédagogie ...
 
 Après un long temps de réflexion, le milieu du développement informatique et plus particulièrement celui du développement web et web mobile m'a semblé le choix le plus en adéquation avec mes valeurs et mes ambitions, ainsi qu'avec les opportunités offertes par le marché. J'ai toujours aimé la culture web, et le fait de savoir comment tout fonctionne me passionne.
-Compétences en cours d'apprentissage 🚧
+
+# Compétences en cours d'apprentissage 🚧
 
     HTML / CSS / Git-Git Hub: Basiques acquis
     Javascript : Quelques notions abordées (Variable, boucles, fonction classique et algorithmie)
     React/Node.js : A apprendre
 
-Formation 🎓
+# Formation 🎓
 
 Actuellement en formation avec l'organisme SIMLPLON en tant que Développeuse Web et Web Mobile, je suis à la recherche d'un stage qui se déroulera en Mai 2024, et je suis donc ouverte à des opportunités professionnelles.
 
