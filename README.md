@@ -21,7 +21,7 @@ Après un long temps de réflexion, le milieu du développement informatique et 
 Compétences en cours d'apprentissage 🚧
 
     HTML / CSS / Git-Git Hub: Basiques acquis
-    Javascript : Quelques notions abordées
+    Javascript : Quelques notions abordées (Variable, boucles, fonction classique et algorithmie)
     React/Node.js : A apprendre
 
 Formation 🎓
